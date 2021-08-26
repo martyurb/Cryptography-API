@@ -1,4 +1,4 @@
-﻿##Cryptography API
+﻿## Cryptography API
 
 1. Install dependancies `npm install`
 2. Launch the app `node app.js`
