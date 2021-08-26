@@ -1,0 +1,17 @@
+{
+    "name": "cryptographyapi",
+    "version": "0.1.0",
+    "description": "",
+    "main": "app.js",
+    "author": "Martynas Urbanavicius",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/martyurb/Cryptography-API"
+    },
+    "dependencies": {
+        "esm": "^3.2.25",
+        "express": "^4.17.1"
+    },
+    "type": "module"
+}
