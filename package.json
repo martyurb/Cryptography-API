@@ -3,6 +3,9 @@
     "version": "0.1.0",
     "description": "",
     "main": "app.js",
+    "scripts": {
+        "test": "mocha --exit"
+    },
     "author": "Martynas Urbanavicius",
     "license": "MIT",
     "repository": {
@@ -12,6 +15,11 @@
     "dependencies": {
         "esm": "^3.2.25",
         "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "chai": "^4.3.4",
+        "mocha": "^9.1.0",
+        "supertest": "^6.1.6"
     },
     "type": "module"
 }
